@@ -23,7 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![OUTPUT](./gcd.png)
+![OUTPUT](./image/gcd.png)
 
 
 ## Result:
